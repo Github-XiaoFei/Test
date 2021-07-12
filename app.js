@@ -1,2 +1,2 @@
-console.log('hello world v1.7.0');
+console.log('hello world v1.8.0');
 alert('hello world');
